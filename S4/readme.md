@@ -1,4 +1,4 @@
-# Train Accuracy(max) = 99.54(19th epoch) 
+# Accuracy(max) = 99.54(19th epoch) 
  
  
  ## model
